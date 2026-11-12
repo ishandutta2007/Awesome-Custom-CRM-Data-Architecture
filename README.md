@@ -1,6 +1,6 @@
 # Awesome-Custom-CRM-Data-Architecture
 
-# Top Custom CRM Data Architecture Ecosystem
+## Top Custom CRM Data Architecture Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Custom Objects, Flexible Data Models & Low-Code Schema Extension*  
