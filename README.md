@@ -77,7 +77,7 @@ The global CRM and extensible customer data platforms sector is valued at approx
 
 *Sorted in descending order by GitHub stargazers count.*
 
-| Project | Star Badge | Description | Architecture Highlights |
+| Project | Stars_Badge | Description | Architecture Highlights |
 |---------|------------|-------------|-------------------------|
 | **[Supabase](https://github.com/supabase/supabase)** | [![Stars](https://img.shields.io/github/stars/supabase/supabase?style=social&color=white)](https://github.com/supabase/supabase/stargazers) | Open-source Firebase alternative built on PostgreSQL. Provides an instant relational backend, auto-generated REST/GraphQL APIs, Realtime WebSockets, Row Level Security (RLS), and database web studio. | PostgreSQL-native, auto-generated schemas, Auth, Edge Functions, pgvector support. |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [![Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers) | Open-source smart spreadsheet that connects directly to production SQL databases (PostgreSQL, MySQL, SQLite, SQL Server) and turns them into collaborative no-code relational apps with REST APIs. | Connects to existing schemas without data migration; supports views, formula columns, and unlimited viewer/editor tiers. |
